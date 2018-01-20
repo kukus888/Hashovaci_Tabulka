@@ -1,0 +1,5 @@
+/home/jakub/Plocha/Csharp/projekt/HashovaciTabulka/HashovaciTabulka/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jakub/Plocha/Csharp/projekt/HashovaciTabulka/HashovaciTabulka/bin/Debug/HashovaciTabulka.exe.mdb
+/home/jakub/Plocha/Csharp/projekt/HashovaciTabulka/HashovaciTabulka/bin/Debug/HashovaciTabulka.exe
+/home/jakub/Plocha/Csharp/projekt/HashovaciTabulka/HashovaciTabulka/obj/x86/Debug/HashovaciTabulka.exe
+/home/jakub/Plocha/Csharp/projekt/HashovaciTabulka/HashovaciTabulka/obj/x86/Debug/HashovaciTabulka.exe.mdb
